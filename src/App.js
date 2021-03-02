@@ -23,8 +23,6 @@ function App() {
       <main>
 
         <Page />
-        <Work></Work>
-        <Contact></Contact>
 
       </main>
       <Footer></Footer>
